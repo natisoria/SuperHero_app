@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="15px" viewBox="0 0 23 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Heroes-/-Villanos-/-Neutrales" transform="translate(-352.000000, -56.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Basedark" transform="translate(0.000000, -3.000000)">
+                <path d="M362.25,74 L364.75,74 C365.4375,74 366,73.325 366,72.5 C366,71.675 365.4375,71 364.75,71 L362.25,71 C361.5625,71 361,71.675 361,72.5 C361,73.325 361.5625,74 362.25,74 Z M352,60.5 C352,61.325 352.575,62 353.277778,62 L373.722222,62 C374.425,62 375,61.325 375,60.5 C375,59.675 374.425,59 373.722222,59 L353.277778,59 C352.575,59 352,59.675 352,60.5 Z M357.25,68 L369.75,68 C370.4375,68 371,67.325 371,66.5 C371,65.675 370.4375,65 369.75,65 L357.25,65 C356.5625,65 356,65.675 356,66.5 C356,67.325 356.5625,68 357.25,68 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

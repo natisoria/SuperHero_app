@@ -1,0 +1,36 @@
+
+/*
+ Localizable.strings
+  superHeroProject
+
+  Created by Natalia Soria on 2/3/21.
+  
+*/
+
+//los textos se guardan segín clave / valor
+//ej: "text_hello " = "Hola";
+//TODOS LOS TEXTOS SE AGREGAN EN EL LOCALIZED
+
+
+//RandomViewController vista 1
+"titleView1" = "What superhero are you?";
+
+//RandomViewController vista 2
+"titleView2" = "You have the superpowers of";
+"intelligent" = "Intelligent";
+"strenght" = "Strenght";
+"speed" = "Speed";
+"durability" = "Durability";
+"power" = "Power";
+"combat" = "Combat";
+"tryagain" = "Try again";
+"buttomTitle" = "Start!";
+
+
+//extension actionSheet
+
+"titleAction" = "Elige tu publicación favorita";
+"titleDC" = "DC";
+"titleMarvel" = "Marvel";
+"titleOtros" = "Otros";
+"buttomTitleRandom" = "Try Again";
